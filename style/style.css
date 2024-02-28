@@ -4,5 +4,11 @@
 }
 
 .col{
-    margin-bottom: 20px;
+    
+    height: 350px;
+}
+
+.wrap_style{
+    width: 1350px;
+    margin-top: 50px;
 }
