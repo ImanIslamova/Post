@@ -12,3 +12,17 @@
     width: 1350px;
     margin-top: 50px;
 }
+
+.btn{
+    background-color: #050606;
+} 
+
+.card-title{
+    color: #198754; 
+}
+
+.style-text{
+    border-color: #198754;
+    width: 1350px;
+    height: 350px;
+}
