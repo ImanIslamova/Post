@@ -22,7 +22,7 @@ const renderPost = (posts) =>{
         cardText.classList.add('card-text')
         cardText.innerText = post.body
         div3.append(cardText)
-        div3.innerHTML += `<a href="#" class="btn btn-outline-success">Открыть пост</a>`
+        div3.innerHTML += `<a href="pages/post.html?id=${post.id}" class="btn btn-outline-success">Открыть пост</a>`
         div.append(div2)
         postsContainer.append(div)
     }

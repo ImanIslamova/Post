@@ -9,7 +9,7 @@
 }
 
 .wrap_style{
-    width: 1350px;
+    max-width: 1350px;
     margin-top: 50px;
 }
 
@@ -21,8 +21,3 @@
     color: #198754; 
 }
 
-.style-text{
-    border-color: #198754;
-    width: 1350px;
-    height: 350px;
-}
